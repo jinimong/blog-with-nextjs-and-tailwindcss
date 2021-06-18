@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-export default function Home() {
+export default function About() {
   return (
     <div>
       <Head>
@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1>Welcome to My Blog</h1>
+        <h1>About</h1>
       </main>
     </div>
   );
